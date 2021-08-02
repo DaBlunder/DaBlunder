@@ -1,1 +1,1 @@
-<h1 style="font-family: Arial, Helvetica, sans-serif;">hey guy</h1>
+<h1 style="font-family: Arial; font-size: 3em;">hey guy</h1>
