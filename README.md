@@ -1,5 +1,5 @@
 # クレイです！
-I learn random stuff
+I learn random stuff (Most of my stuff are privated)
 
 
 # What I've learned so far:
