@@ -1,7 +1,7 @@
 # クレイです！
 ### I learn random stuff (Most of my stuff are privated)
 
-&nbsp;
+
 
 ## What I've learned so far:
 ### Programming languages
@@ -13,12 +13,12 @@
 ### Others
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
 
-&nbsp;
+
 
 ## Learning:
 ### Nothing as of now
 
-&nbsp;
+
 
 ## Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KureiLe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
