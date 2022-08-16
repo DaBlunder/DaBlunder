@@ -3,7 +3,7 @@
 
 
 
-## What I've learned so far:
+# What I've learned so far:
 ### Programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### Website related
@@ -15,12 +15,12 @@
 
 
 
-## Learning:
+# Learning:
 ### Nothing as of now
 
 
 
-## Github Stats:
+# Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KureiLe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KureiLe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KureiLe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
