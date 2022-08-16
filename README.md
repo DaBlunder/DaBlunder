@@ -2,8 +2,6 @@
 <h3 align="center">I learn stuff and do stuff idk</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kureile&label=Profile%20views&color=0e75b6&style=flat" alt="kureile" /> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
