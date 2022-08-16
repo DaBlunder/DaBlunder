@@ -2,7 +2,7 @@
 ### I learn random stuff (Most of my stuff are privated)
 
 
-# What I've learned so far:
+## What I've learned so far:
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### Website related
@@ -12,10 +12,10 @@
 ### Others
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
 
-# Learning:
+## Learning:
 ### Nothing as of now
 
-# Github Stats:
+## Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KureiLe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KureiLe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KureiLe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
